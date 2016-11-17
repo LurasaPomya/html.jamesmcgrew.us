@@ -1,0 +1,15 @@
+.jumbotron-dec {
+	background-color: #0e232e;
+	color: #ffffff;
+}
+.panel-heading-dec {
+	background-color: #0e232e;
+	color: #ffffff;
+	padding: 10px 15px;
+	border-bottom: 1px solid transparent;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+}
+body {
+	background: #f2f2f2 url('../images/bg-tile.png');
+}
