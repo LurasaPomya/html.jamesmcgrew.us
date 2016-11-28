@@ -1,2 +1,1 @@
-# html.webapp.jamesmcgrew.us
-My Jamesmcgrew.us website. Simple HTML...boring.
+My [jamesmcgrew.us](http://www.jamesmcgrew.us) website. Simple HTML...boring.
